@@ -1,0 +1,13 @@
+BUS
+BarnTruck
+BoomTruckPNG
+BramTrailer
+CementTruck
+NoCarriageTruck
+NormalTruck
+OilTralier
+OilTruck
+Trailer
+Van
+others
+
