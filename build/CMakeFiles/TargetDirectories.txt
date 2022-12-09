@@ -1,3 +1,0 @@
-/media/yiji/ea1def5e-614d-46de-ae59-45f647ac3d2a1/lagopus/ClionProject/Class_dnn/class_ncnn/build/CMakeFiles/rebuild_cache.dir
-/media/yiji/ea1def5e-614d-46de-ae59-45f647ac3d2a1/lagopus/ClionProject/Class_dnn/class_ncnn/build/CMakeFiles/Class_ncnn.dir
-/media/yiji/ea1def5e-614d-46de-ae59-45f647ac3d2a1/lagopus/ClionProject/Class_dnn/class_ncnn/build/CMakeFiles/edit_cache.dir
